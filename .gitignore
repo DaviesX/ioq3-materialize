@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ioq3-materialize
+models/*.pth
+models/*.onnx
+preview*.png
